@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
 #EXTINF:-1 tvg-logo="https://imgur.com/Tu8AyTZ.png" , Channel 24
+#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Sports", Ekattor TV
+http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
-http://103.161.2.142/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla", ATN News
@@ -28,8 +28,6 @@ http://103.161.2.142/hls/ntv.m3u8
 http://103.161.2.142/hls/etv.m3u8
 
 #Sports
-#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Sports", Ekattor TV
-http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
@@ -38,9 +36,12 @@ http://103.161.2.142/hls/news24.m3u8
 http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
+http://103.161.2.142/hls/nexus.m3u8
+#EXTINF:-1 tvg-logo="#.png" group-title="Sports" Star Sports 2 HD
+http://103.161.2.142/hls/duronto.m3u8
+#EXTINF:-1 tvg-logo="#.png" group-title="Sports", Star Sports Select 2 HD
+http://103.161.2.142/hls/sonyyay.m3u8
 
 
 
@@ -64,6 +65,8 @@ http://iptvh.it/snehzeecinemahd.m3u8
 http://iptvh.it/snehzeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Hindi", &Pictures HD
 http://iptvh.it/snehandpicshd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
+http://103.161.2.142/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" , Star Gold HD
 http://103.161.2.142/hls/atn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" , Sony Max HD
@@ -73,10 +76,30 @@ http://iptvh.it/snehandxplore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
 http://103.161.2.142/hls/axn.m3u8
 
+#English
+#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", And Flix HD
+http://iptvh.it/snehandflixhd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
+http://103.161.2.142/hls/t-sports.m3u8
+
+#Documentary
+#EXTINF:-1 tvg-logo="https://imgur.com/dpf1I1U.png"  group-title="Documentary", TravelXP 
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic HD
+http://103.161.2.142/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Documentary", Discovery HD
+http://103.161.2.142/hls/colorsbangla.m3u8
 
 
-
-
+#Cartoon
+#EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
+http://103.153.39.36:8000/play/a01x
+#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney India
+http://103.153.39.36:8000/play/a01y
+#EXTINF: -1 tvg-id="001" tvg-logo="#.png" group-title="Cartoon", CN SD
+http://103.153.39.36:8000/play/a01w
+#EXTINF:-1 tvg-id="001" tvg-logo="#.png" group-title="Cartoon", CN HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CN_HD_English&q=800&e=junk.m3u8
 
 
 
