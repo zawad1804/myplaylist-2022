@@ -30,10 +30,10 @@ http://103.161.2.142/hls/ntv.m3u8
 http://103.161.2.142/hls/etv.m3u8
 
 #Sports
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Sam Alt]
-http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [15Fps]
 http://103.161.2.142/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Sam Alt]
+http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://jupiter.bdcabletv.com/T-sports_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [ICC]
@@ -64,15 +64,15 @@ http://opplex.tv:8080//2959/2959/167592?key=nayeemparvez
 
 #Indian Bangla Channels
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
+http://103.161.2.142/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
 http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
 http://opplex.tv:8080//2959/2959/167617?key=nayeemparvez
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
-http://103.161.2.142/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
-http://iptvh.it/snehzeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
 http://103.161.2.142/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
+http://iptvh.it/snehzeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
 http://103.161.2.142/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
@@ -84,7 +84,7 @@ http://103.161.2.142/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
 http://nayeem-parvez.serveirc.com/jalshamuvies-enc/video.m3u8?token=thenayeemparvez
 #EXTINF:-1 tvg-logo="https://imgur.com/uP36aiN.png" group-title="Indian Bangla", Colors Bangla Cinema
-http://103.161.2.142/hls/aakaash-aath.m3u8
+http://iptvh.it/colorsbanglacinema.m3u8
 
 # Hindi Channels
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
