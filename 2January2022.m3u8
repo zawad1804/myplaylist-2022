@@ -138,9 +138,9 @@ http://103.161.2.142/hls/rock-enter.m3u8
 http://103.161.2.142/hls/bhojpuri.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgujZyS.png" group-title="English", AXN
 http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
-#EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/undefined.png" group-title="Orange", HBO
+#EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
 http://190.171.101.36/HBO/index.m3u8
-#EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/undefined.png" group-title="Orange", Cinemax
+#EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/AgjF1pw.png" group-title="English", Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fKwtX8h.png" group-title="English", TLC HD
 http://103.161.2.142/hls/tlc.m3u8
@@ -158,7 +158,7 @@ http://103.161.2.142/hls/ngohd.m3u8
 http://103.161.2.142/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmi7YKP.png" group-title="Documentary", Discovery Science
 http://103.161.2.142/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-title="Documentary", BBC Earth HD
+#EXTINF:-1 tvg-logo="https://imgur.com/ZY6bPmR.png" group-title="Documentary", BBC Earth HD
 http://103.161.2.142/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9etOm0d.png" group-title="Documentary", Animal Planet HD
 http://103.161.2.142/hls/animalplanent.m3u8
@@ -188,7 +188,7 @@ https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV&q=800&e=jun
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/undefined.png" group-title="Music", Bindaas
+#EXTINF:-1 tvg-logo="https://imgur.com/PxyoUY5.png" group-title="Music", Bindaas
 http://103.161.2.142/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QUWzAxO.png" group-title="Music", VH1
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=VH1&q=600&e=.m3u8
