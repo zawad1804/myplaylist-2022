@@ -106,6 +106,8 @@ http://iptvh.it/snehzeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YOtzZBL.png" group-title="Hindi"group-title="Hindi", Zee Cinema
 http://iptvh.it/snehzeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Hindi", &Pictures HD
+http://103.161.2.142/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Hindi", &Pictures HD
 http://iptvh.it/snehandpicshd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://103.161.2.142/hls/sonyen.m3u8
@@ -130,7 +132,9 @@ http://iptvh.it/snehandxplore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
 http://103.161.2.142/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
-http://103.161.2.142/hls/andpictures.m3u8
+http://103.161.2.142/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors Cineplex HD
+http://103.161.2.142/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
 http://103.161.2.142/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="Hindi", Star Bharat HD
