@@ -50,18 +50,30 @@ http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 http://103.81.104.118/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://103.81.104.118/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
 http://103.81.104.118/hls/starsports2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
 http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
 http://103.81.104.118/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
 http://103.81.104.118/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
+http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WZbjRM3.png" group-title="Sports", Sony Ten 1 HD
 http://103.81.104.118/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p5DzCDr.png" group-title="Sports", Sony Ten 2 HD
 http://103.81.104.118/hls/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p5DzCDr.png" group-title="Sports", Sony Ten 2 HD
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rU424bI.png" group-title="Sports", Sony Ten 3
 http://103.81.104.118/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", Willow HD
@@ -89,6 +101,8 @@ http://opplex.tv:8080//2959/2959/167617?key=nayeemparvez
 http://103.81.104.118/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
 http://iptvh.it/snehzeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
 http://103.81.104.118/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
@@ -119,6 +133,8 @@ http://iptvh.it/snehandpicshd.m3u8
 http://103.81.104.118/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
+https://durbinlive.com:443/live/jio?c=Sony_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
 http://103.81.104.118/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" group-title="Hindi", Star Gold Select HD
@@ -130,13 +146,15 @@ http://103.81.104.118/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
+https://durbinlive.com:443/live/jio?c=Sony_SAB_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max
 http://103.81.104.118/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YEHybsp.png" group-title="Hindi", &xplorHD
+#EXTINF:-1 tvg-logo="https://imgur.com/YEHybsp.png" group-title="Hindi", &xplor HD
 http://iptvh.it/snehandxplore.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
 http://103.81.104.118/hls/starplus.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
+http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
 http://103.81.104.118/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors Cineplex HD
@@ -151,7 +169,7 @@ http://opplex.tv:8080//2959/2959/66170?key=nayeemparvez
 
 #English
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", And Flix HD
+#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", &flix HD
 http://iptvh.it/snehandflixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 http://103.81.104.118/hls/star-worldhd.m3u8
@@ -175,7 +193,7 @@ http://103.161.2.142/hls/axn.m3u8
 http://190.171.101.36/HBO/index.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/AgjF1pw.png" group-title="English", Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TCZ9R6r.png" group-title="English", Alzazira#EXTINF:-1 tvg-logo="https://imgur.com/ggVQsnj.png" group-title="English", BBC News
+#EXTINF:-1 tvg-logo="https://imgur.com/TCZ9R6r.png" group-title="English", Alzazira
 http://103.161.2.142/hls/alzazira.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ggVQsnj.png" group-title="English", BBC News
 http://103.161.2.142/hls/bbcworld.m3u8
@@ -223,16 +241,16 @@ http://103.81.104.118/hls/zoom.m3u8
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_HD_Plus&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+ [Durbin]
-https://durbinlive.com:443/live/jio?c=MTV_Beats_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD Plus
+https://durbinlive.com:443/live/jio?c=MTV_HD_Plus&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=800&e=junk.m3u8
+https://durbinlive.com:443/live/jio?c=MTV_Beats_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PxyoUY5.png" group-title="Music", Bindaas
 http://103.81.104.118/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QUWzAxO.png" group-title="Music", VH1
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=VH1&q=600&e=.m3u8
+https://durbinlive.com:443/live/jio?c=VH1&q=1200&e=junk.m3u8
 
