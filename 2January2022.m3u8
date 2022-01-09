@@ -39,7 +39,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #Sports
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Ebox]
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Sam Alt]
 http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
@@ -47,6 +47,8 @@ http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [ICC]
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [ICC]
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://103.81.104.118/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
@@ -88,7 +90,7 @@ http://tv2.ebox.live:8080/live/ten-sports.m3u8
 
 
 #Indian Bangla Channels
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD [SK]
 http://103.81.104.118/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
 http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
