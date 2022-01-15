@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml"
 #EXTINF:-1 tvg-logo="https://imgur.com/Tu8AyTZ.png" , Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
@@ -197,18 +197,10 @@ http://103.161.2.142/hls/mn+.m3u8
 http://103.161.2.142/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgujZyS.png" group-title="English", AXN
 http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wgujZyS.png" group-title="English", AXN
-http://103.161.2.142/hls/axn.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
 http://190.171.101.36/HBO/index.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/AgjF1pw.png" group-title="English", Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TCZ9R6r.png" group-title="English", Alzazira
-http://103.161.2.142/hls/alzazira.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ggVQsnj.png" group-title="English", BBC News
-http://103.161.2.142/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fKwtX8h.png" group-title="English", TLC HD
-http://103.161.2.142/hls/tlc.m3u8
 
 
 
