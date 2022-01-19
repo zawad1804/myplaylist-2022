@@ -134,7 +134,7 @@ http://103.161.2.142/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
-https://snehtv.in1.bitmana.io/live.php?c=Sony_HD&q=800&e=.m3u8
+https://snehtv.in1.bitmana.io/live.php?c=Sony_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony SD
 https://snehtv.in1.bitmana.io/live.php?c=Sony_SD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
