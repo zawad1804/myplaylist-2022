@@ -44,7 +44,7 @@ http://103.161.2.142/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Ebox]
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Sam Alt]
-http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+http://103.159.4.38:9191/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [ICC]
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [15Fps]
@@ -264,4 +264,4 @@ https://snehjiotv.in1.bitmana.io/snehjioxox.php?c=Music_India&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QUWzAxO.png" group-title="Music", VH1
 https://snehjiotv.in1.bitmana.io/snehjioxox.php?c=VH1&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PxyoUY5.png" group-title="Music", Bindaas
-http://103.161.2.142/hls/9xm.m3u8
+https://vkvsd22.mycdn.me/hls/2068067125927.m3u8/sig/HAItMPPGBws/expires/1643010600392/srcIp/103.251.59.2/clientType/13/srcAg/CHROME_ANDROID/mid/3755425606567/2068067125927_high/index.m3u8
