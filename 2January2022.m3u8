@@ -39,7 +39,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #Sports
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", BPL Live
-https://sami-rian.tk/BPL/Fancode_Auto.m3u8
+https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/0QBuaUZUGuehZroOiPV7tCae3QvRw4IMBAjOyBn30ls6aWTKcFoHcsH7WM1pynAbL6jidpkJEYvQ-xnElzWzgA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", PSL Live
 https://nayeem-parvez.ml/auto/dora-tv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [15Fps]
@@ -48,12 +48,14 @@ http://103.166.253.222/hls/t-sports.m3u8
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Sam Alt]
 http://103.159.4.38:9191/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [ICC]
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://103.84.253.5/live/0/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [15Fps]
 http://103.166.253.222/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://nayeemparvez01.redirectme.net:1935/live/event360.stream/chunklist_w1527816898.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
+http://103.84.253.5/live/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://103.166.253.222/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
