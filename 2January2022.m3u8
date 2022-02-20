@@ -97,12 +97,10 @@ http://tv2.ebox.live:8080/live/ten-sports.m3u8
 http://103.166.253.222/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
 http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
-http://opplex.tv:8080//2959/2959/167617?key=nayeemparvez
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
 http://103.166.253.222/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
-http://iptvh.it/snzeebanglahd.m3u8
+http://arnob.cf/snzee/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
@@ -110,11 +108,11 @@ https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Colors_Bengali_HD&q=800&e=
 #EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema
-http://iptvh.it/snzeebanglacinema.m3u8
+http://arnob.cf/snzee/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
 http://103.166.253.222/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uP36aiN.png" group-title="Indian Bangla", Colors Bangla Cinema
-http://103.166.253.222/hls/colore-bangla-cinema.m3u8
+http://arnob.cf/colors-bangla-cinema.m3u8
 
 # Hindi Channels
 
@@ -123,15 +121,15 @@ http://103.166.253.222/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
-http://iptvh.it/snzeecinemahd.m3u8
+http://arnob.cf/snzee/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
 https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeecinemahd
 #EXTINF:-1 tvg-logo="https://imgur.com/YOtzZBL.png" group-title="Hindi"group-title="Hindi", Zee Cinema
-http://iptvh.it/snzeecinema.m3u8
+http://arnob.cf/snzee/zeecinema.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
 http://103.166.253.222/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Hindi", &Pictures HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=tvpictureshd
+http://arnob.cf/snzee/andpicshd.m3u8
 http://iptvh.it/snandpicshd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://103.166.253.222/hls/sonyen.m3u8
@@ -160,7 +158,7 @@ https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_SAB_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max
 http://103.166.253.222/hls/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YEHybsp.png" group-title="Hindi", &xplor HD
-http://iptvh.it/snandxplore.m3u8
+http://arnob.cf/snzee/andxplorhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
 http://live.flixhub.net/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
@@ -177,6 +175,8 @@ https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Bflix_Movies&q=800&e=.m3u8
 http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XzHW70x.png"  group-title="Hindi", Zee TV HD
+http://arnob.cf/snzee/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="Hindi", Star Bharat HD
 http://103.153.39.36:8000/play/a010
 
@@ -186,7 +186,7 @@ http://103.153.39.36:8000/play/a010
 #English
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", &flix HD
-http://iptvh.it/snandflixhd.m3u8
+http://arnob.cf/snzee/andflixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 http://103.166.253.222/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix
