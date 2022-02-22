@@ -232,8 +232,10 @@ https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=History_HD&q=800&e=.m3u8
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=History_18_Hindi&q=800&e=.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic HD
 http://103.166.253.222/hls/ngohd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QOye6lA.png" group-title="Documentary", Discovery HD
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Discovery_HD_World&q=800&e=.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic
+https://arnob.tk/MB/NatGeo.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QOye6lA.png" group-title="Documentary", Discovery
+https://arnob.tk/MB/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bmi7YKP.png" group-title="Documentary", Discovery Science
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Discovery_Science&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZY6bPmR.png" group-title="Documentary", BBC Earth HD
