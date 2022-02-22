@@ -54,6 +54,8 @@ http://103.166.253.222/hls/Gazi-TV.m3u8
 http://nayeemparvez01.redirectme.net:1935/live/event360.stream/chunklist_w1527816898.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://103.84.253.5/live/4/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
+https://arnob.tk/MB/GTV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://103.166.253.222/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
@@ -149,7 +151,7 @@ http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_Max_HD&q=600&e=.m3u8
+https://arnob.tk/MB/SonyMaxHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
 http://103.166.253.222/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
@@ -267,7 +269,7 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD Plus
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=MTV&q=800&e=.m3u8
+https://arnob.tk/MB/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD 
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=MTV_Beats_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD 4k
