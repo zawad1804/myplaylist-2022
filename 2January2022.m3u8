@@ -54,7 +54,7 @@ http://103.166.253.222/hls/Gazi-TV.m3u8
 http://nayeemparvez01.redirectme.net:1935/live/event360.stream/chunklist_w1527816898.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://103.84.253.5/live/4/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [MB]
 https://arnob.tk/MB/GTV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://103.166.253.222/hls/stersports1hd.m3u8
@@ -106,7 +106,7 @@ http://arnob.cf/snzee/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Colors_Bengali_HD&q=800&e=.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxyy.php?c=Colors_Bengali_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema
@@ -152,6 +152,8 @@ http://live.flixhub.net/hls/sony-maxhd.m3u8
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 https://arnob.tk/MB/SonyMaxHD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max
+http://103.166.253.222/hls/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
 http://103.166.253.222/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
@@ -160,8 +162,6 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png" group-title="Hindi", Star Gold2
 http://103.166.253.222/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max
-http://103.166.253.222/hls/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YEHybsp.png" group-title="Hindi", &xplor HD
 http://arnob.cf/snzee/andxplorhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
@@ -171,9 +171,9 @@ http://103.166.253.222/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Colors_HD&q=800&e=.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxyy.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors Cineplex HD
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxyy.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Hindi", Bflix Movies
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Bflix_Movies&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
@@ -194,12 +194,10 @@ http://103.153.39.36:8000/play/a010
 http://arnob.cf/snzee/andflixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 http://103.166.253.222/hls/star-worldhd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_Pix_SD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
 http://103.166.253.222/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_Pix_HD&q=800&e=.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxyy.php?c=Sony_Pix_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD
 http://103.166.253.222/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD
@@ -267,11 +265,11 @@ http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD Plus
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=MTV_HD_Plus&q=800&e=.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxyy.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
 https://arnob.tk/MB/MTV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD 
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=MTV_Beats_HD&q=800&e=.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxyy.php?c=MTV_Beats_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD 4k
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
@@ -279,6 +277,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=2
 #EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Music_India&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QUWzAxO.png" group-title="Music", VH1
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=VH1&q=800&e=.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxyy.php?c=VH1&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PxyoUY5.png" group-title="Music", Bindaas
-https://vkvsd22.mycdn.me/hls/2068067125927.m3u8/sig/HAItMPPGBws/expires/1643010600392/srcIp/103.251.59.2/clientType/13/srcAg/CHROME_ANDROID/mid/3755425606567/2068067125927_high/index.m3u8
+
