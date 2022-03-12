@@ -29,7 +29,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="#.png" group-title="Bangla", Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV
-http://103.55.144.46/hls/ntv.m3u8
+http://103.149.130.122:8089/54/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/04FVgLd.png" group-title="Bangla", Ekushe ETV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Bangla", Desh Tv
@@ -149,7 +149,7 @@ https://arnob.tk/MB/SonySD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 https://arnob.tk/MB/SonySabHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
-http://lodulalit.in1.bitmana.io/JioTV3/live.php?id=471&q=1200
+http://103.149.130.122:8089/36/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
@@ -164,6 +164,8 @@ http://103.55.144.46/hls/sonymax.m3u8
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
+http://103.149.130.122:8089/75/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" group-title="Hindi", Star Gold Select HD
 http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png" group-title="Hindi", Star Gold2
@@ -273,7 +275,7 @@ http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
-http://lodulalit.in1.bitmana.io/JioTV3/live.php?id=592&q=1200
+http://103.149.130.122:8089/60/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD Plus
