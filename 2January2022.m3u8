@@ -219,6 +219,8 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgujZyS.png" group-title="English", AXN
 https://arnob.tk/MB/AXN.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
 http://190.171.101.36/HBO/index.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/AgjF1pw.png" group-title="English", Cinemax
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
@@ -252,6 +254,8 @@ https://arnob.tk/SH/AnimalPlanetHD.m3u8
 #Cartoon
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
 http://103.153.39.36:8000/play/a01x
+#EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
+https://jai-shree-ram.in1.bitmana.io/rapidx/rapid/hungamahindi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney India
 http://103.153.39.36:8000/play/a01y
 #EXTINF: -1 tvg-logo="https://imgur.com/2tjaJND.png" group-title="Cartoon", CN SD
