@@ -295,7 +295,6 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 https://arnob.tk/SH/MTVHDPlus.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
 http://103.149.130.122:8089/46/index.m3u8
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD 
 https://arnob.tk/SH/MTVBeatsHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD 4k
@@ -308,5 +307,7 @@ http://lodulalit.in1.bitmana.io/JioTV3/live.php?id=250&q=1200
 https://arnob.tk/SH/VH1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PxyoUY5.png" group-title="Music", Sangeet Bangla
 http://lodulalit.in1.bitmana.io/JioTV3/live.php?id=740&q=1200
+
+##http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 
 
