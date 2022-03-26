@@ -70,6 +70,8 @@ http://nayeem-parvez.serveftp.com:8080/live/nour2020/123456/148521.m3u8?token=Qh
 http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
+http://103.149.130.122:8089/11/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
@@ -100,8 +102,12 @@ http://tv2.ebox.live:8080/live/willow-cric.m3u8
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1 tvg-logo="#.png" group-title="Sports", PTV Sports
+http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", Ten Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1 tvg-logo="#.png" group-title="Sports", Ten Sports
+http://103.55.144.46/hls/ten.m3u8
 
 
 #Indian Bangla Channels
