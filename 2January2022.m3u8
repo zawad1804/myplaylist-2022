@@ -58,8 +58,6 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 ###https://arnob.tk/MB/GTV.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", Willow HD
 https://16live00.akamaized.net/WILLOW/index.m3u8
-##EXTINF:-1 tvg-logo="#.png" group-title="Sports", Willow HD
-##https://Join-us-on-telegram_AllLiveSportsLinks@16live00.akamaized.net/WILLOW/index.m3u8
 ###EXTINF:-1 tvg-logo="#.png" group-title="Sports", Fox Sports 505 HD
 ###https://nayeem-parvez.gq/live/Fox-Sports-505-FHD.m3u8
 ###EXTINF:-1 tvg-logo="#.png" group-title="Sports", Fox Sports 501 HD
@@ -69,7 +67,7 @@ http://103.161.2.142/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://103.149.130.122:8089/11/index.m3u8
+http://103.149.130.122:8089/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
