@@ -57,10 +57,11 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 ###http://103.84.253.5/live/4/index.m3u8
 ###EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [MB]
 ###https://arnob.tk/MB/GTV.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Sports", Willow HD
-https://16live00.akamaized.net/WILLOW/index.m3u8
+#EXTINF:-1 tvg-logo="#.png" group-title="Sports", Bein Sports 3
+http://172.16.128.250:8081/live/gazitv/chunks.m3u8
 ###EXTINF:-1 tvg-logo="#.png" group-title="Sports", Fox Sports 505 HD
 ###https://nayeem-parvez.gq/live/Fox-Sports-505-FHD.m3u8
+https://16live00.akamaized.net/WILLOW/index.m3u8
 ###EXTINF:-1 tvg-logo="#.png" group-title="Sports", Fox Sports 501 HD
 ###http://nayeem-parvez.serveftp.com:8080/live/nour2020/123456/148521.m3u8?token=QhZdWUdRRwsQDgxZBgMDUgwED1UFUQUJAgJXUwJWAgEJBgEOBl0EVQobFENCERcDVQxpXwJEXAAFCwMAUkoTQEpRR2ddXUcLEA4LVwhRR0oWFV9bA0RcAR0RRlsHRAsXDAIBAAIbSRNXQUwEQwsECmsFU0APBQMTC11DXg9KE1pXa1FdWVgLVRADGlATSUcPRxEUDAgTCl0dEVRbFxRQQVwWDxoFDVUDEBUaAl4QCxJGGBQMRCQiEx0RU0oXA19GUFtbGg4bCAJHARpNEwwWOUYERUIUAwdcVEEUCEFWExkbWVRAa1oKX1xcWxVYCgsVFlsUB0RKRFxeXV9GDBRuRVBQFwIWDFIFAgoaHA==
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
