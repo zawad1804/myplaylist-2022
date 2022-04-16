@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
-#EXTINF:-1 tvg-logo="
 
- .png" group-title="Bangla", Channel 24
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" ,  Ekattor TV
+#EXTVLCOPT:http-user-agent=B Player
+https://ranapk.tk/Bangla/71TV.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
 http://103.149.130.122:8089/11/index.m3u8
@@ -313,7 +315,4 @@ https://arnob.tk/SH/VH1.m3u8
 http://lodulalit.in1.bitmana.io/JioTV3/live.php?id=740&q=1200
 
 ##http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" ,  Ekattor TV
-#EXTVLCOPT:http-user-agent=B Player
-https://ranapk.tk/Bangla/71TV.m3u8
 
