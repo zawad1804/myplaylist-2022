@@ -122,6 +122,8 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
 https://snehott.in1.bitmana.io/jiotv/snehjioxyy.php?c=Colors_Bengali_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
+https://arnob.tk/MB/SonyAath.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema
 http://arnob.cf/snzee/zeebanglacinema.m3u8
@@ -155,19 +157,19 @@ http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/nayeemtv.php?c=Sony_HD&q=1200&e=.m3u8
+https://tvstream.fun/jtv/auttoo.php?c=Sony_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony SD
 https://arnob.tk/MB/SonySD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab
+https://arnob.tk/MB/SonySabHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/nayeemtv.php?c=Sony_SAB_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
-http://103.149.130.122:8089/36/index.m3u8
+https://ranapk.tk/Sony_Sab-HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/nayeemtv.php?c=Sony_Max_HD&q=1200&e=.m3u8
+https://tvstream.fun/jtv/auttoo.php?c=Sony_Max_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 https://arnob.tk/MB/SonyMaxHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max
@@ -178,12 +180,8 @@ http://103.55.144.46/hls/stargold.m3u8
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
 http://103.149.130.122:8089/75/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jlWbKAv.png" group-title="Hindi", Star Gold Select HD
-http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png" group-title="Hindi", Star Gold2
 http://103.55.144.46/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YEHybsp.png" group-title="Hindi", &xplor HD
-http://arnob.cf/snzee/andxplorhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
 http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
@@ -191,11 +189,9 @@ http://103.55.144.46/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
-https://orbhai.in1.bitmana.io//liveamar.php?id=144&q=1200
+https://tvstream.fun/jtv/auttoo.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors Cineplex HD
-https://arnob.tk/J/CCHD.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Hindi", Bflix Movies
-https://arnob.tk/SH/BflixMovies.m3u8
+https://tvstream.fun/jtv/auttoo.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
@@ -203,7 +199,7 @@ http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XzHW70x.png"  group-title="Hindi", Zee TV HD
 https://arnob.tk/MB/ZeeTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QD5t6Bn.png" group-title="Hindi", Star Bharat HD
-http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+https://arnob.tk/StarBharat.m3u8
 
 
 
