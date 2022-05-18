@@ -53,7 +53,7 @@ http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Ebox]
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://103.84.253.5/live/0/index.m3u8
+http://103.136.200.246:8082/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
 https://arnob.tk/MB/TsportsHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Sam Alt]
@@ -63,7 +63,7 @@ http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 ###EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
-###http://103.84.253.5/live/4/index.m3u8
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 ###EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [MB]
 ###https://arnob.tk/MB/GTV.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", Bein Sports 3
