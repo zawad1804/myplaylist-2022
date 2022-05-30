@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
+http://103.60.172.106:8080/EkattorTV/tracks-v1a1/mono.m3u8?
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", BTV
 http://tvserver.aliflailabd.com:8989/btv/index.m3u8
@@ -52,22 +53,20 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 #Sports
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [15Fps]
-http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://stream.accessnetbd.com/hls/sky12.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Ebox]
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://103.136.200.246:8082/T-Sports/index.m3u8
+http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
 https://arnob.tk/MB/TsportsHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Sam Alt]
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [AL]
-http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [AL]
+http://stream.accessnetbd.com/hls/sky16.m3u8
 EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
-EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [MB]
-https://arnob.tk/MB/GTV.m3u8
 https://16live00.akamaized.net/WILLOW/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://103.159.4.38:9191/CH3-SP3/tracks-v1a1/mono.m3u8
@@ -144,31 +143,30 @@ http://103.55.144.46/hls/colore-bangla-cinema.m3u8
 # Hindi Channels
 
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
-http://103.159.4.38:9191/CH30-IN-HIN2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
-http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
 https://arnob.tk/MB/ZeeCinemaHD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
+http://103.159.4.38:9191/CH30-IN-HIN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
+http://103.60.172.106:8080/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
 https://arnob.tk/MB/AndPicturesHD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1GuSyCr.png" group-title="Hindi", &Pictures HD
-http://ranapk.6te.net/z5ranapk.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
+http://103.60.172.106:8080/SonyTVHD/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony SD
 https://arnob.tk/MB/SonySD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab
 https://arnob.tk/MB/SonySabHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
-http://103.136.200.246:8082/Sony_Sab/index.m3u8
+http://103.60.172.106:8080/SonySAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
@@ -273,25 +271,23 @@ https://arnob.tk/SH/NickHDPlus.m3u8
 #Music
 
 #EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Music", Gaan Bangla
-http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
+http://103.60.172.106:8080/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
+http://103.60.172.106:8080/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.55.144.46/hls/zoom.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
-http://103.149.130.122:8089/60/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD Plus
-https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/nayeemtv.php?c=MTV_HD_Plus&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
-http://103.149.130.122:8089/46/index.m3u8
+http://103.60.172.106:8080/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD 
 https://join-us-on-telegram-alllivesportslinks.in1.bitmana.io/nayeemtv.php?c=MTV_Beats_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD TataPlay
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
-https://arnob.tk/J/9XM.m3u8
+http://103.60.172.106:8080/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/musicindia-audio_208482_und=208000-video=877600.m3u8
 
