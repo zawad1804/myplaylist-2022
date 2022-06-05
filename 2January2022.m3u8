@@ -2,12 +2,14 @@
 #EXTM3U x-tvg-url="http://botallen.live/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/channel24.png" group-title="Bangla", Channel 24
+#EXTVLCOPT:http-referrer=http://www.jagobd.com
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 #EXTINF:-1 tvg-logo="http://tv.sarkernet.com/img/btv.png" group-title="Bangla", BTV
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Nexus TV
+#EXTVLCOPT:http-referrer=http://www.jagobd.com
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" group-title="Bangla", Deepto HD
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
