@@ -153,7 +153,7 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
 http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema
-http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+http://ranapk-june.in1.bitmana.io/autoq.php?c=Zee_Cinema&q=&e=.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
@@ -163,7 +163,7 @@ http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
-http://103.159.4.38:9191/CH31-IN-HIN3/tracks-v1a1/mono.m3u8
+http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony SD
 https://arnob.tk/MB/SonySD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab
@@ -177,7 +177,7 @@ http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
-http://103.159.4.38:9191/CH32-IN-HIN4/tracks-v1a1/mono.m3u8
+http://ranapk-june.in1.bitmana.io/autoq.php?c=Sony_Max_HD&q=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max
 http://103.55.144.46/hls/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
@@ -209,6 +209,7 @@ http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XzHW70x.png"  group-title="Hindi", Zee TV HD
+http://ranapk-june.in1.bitmana.io/autoq.php?c=Zee_TV_HD&q=&e=.m3u8
 http://103.136.200.246:8082/Zee-Hd/index.m3u8
 
 
@@ -240,8 +241,6 @@ https://arnob.tk/MB/AXN.m3u8
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
 http://190.171.101.36/HBO/index.m3u8
-#EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/AgjF1pw.png" group-title="English", Cinemax
-http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
 
 
@@ -283,13 +282,17 @@ http://103.136.200.246:8082/Zoom/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
-http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
+http://ranapk-june.in1.bitmana.io/autoq.php?c=Zoom&q=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
+http://ranapk-june.in1.bitmana.io/autoq.php?c=MTV_HD_Plus&q=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
 http://103.136.200.246:8082/Mtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD TataPlay
+#EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
+http://ranapk-june.in1.bitmana.io/autoq.php?c=MTV_Beats_HD&q=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 http://103.60.172.106:8080/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
@@ -307,3 +310,6 @@ http://103.60.172.106:8080/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/SonySAB/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/NTV/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/NagorikTV/tracks-v1a1/mono.m3u8
+http://103.159.4.38:9191/CH31-IN-HIN3/tracks-v1a1/mono.m3u8
+http://103.159.4.38:9191/CH32-IN-HIN4/tracks-v1a1/mono.m3u8
+http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
