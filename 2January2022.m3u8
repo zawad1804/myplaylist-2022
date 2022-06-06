@@ -3,14 +3,14 @@
 
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/channel24.png" group-title="Bangla", Channel 24
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 #EXTINF:-1 tvg-logo="http://tv.sarkernet.com/img/btv.png" group-title="Bangla", BTV
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Nexus TV
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" group-title="Bangla", Deepto HD
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/somoytv.jpg" group-title="Bangla", Somoy TV
@@ -22,7 +22,7 @@ http://10.16.100.245/hindi/atNnews_1st0p.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla", BanglaVision
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla", Channel I
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/jamunatv.jpg" group-title="Bangla", Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla", News24
@@ -62,8 +62,6 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 https://arnob.tk/MB/TsportsHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Sam Alt]
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://103.159.4.38:9191/CH1-SP1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
@@ -267,8 +265,8 @@ http://103.55.144.46/hls/animalplanent.m3u8
 #Cartoon
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
 http://103.153.39.36:8000/play/a01x.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney India
-http://103.153.39.36:8000/play/a01y
+#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Sony Yay
+http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fIWdYho.png" group-title="Cartoon", Cartoon Network
 http://103.55.144.46/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/542VNXV.png" group-title="Cartoon", Nick
