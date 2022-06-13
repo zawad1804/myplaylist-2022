@@ -260,7 +260,9 @@ http://103.55.144.46/hls/animalplanent.m3u8
 
 #Cartoon
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
-http://103.153.39.36:8000/play/a01x.m3u8
+http://31.172.87.55:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057%7Cuser-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
+http://31.172.87.53:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_u-A5Vy_0hcwp3Yi21E7RXg==,1655154279.2885606057%7Cuser-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Sony Yay
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fIWdYho.png" group-title="Cartoon", Cartoon Network
