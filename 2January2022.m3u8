@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://botallen.live/epg.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/channel24.png" group-title="Bangla", Channel 24
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
@@ -37,7 +38,7 @@ http://103.55.144.46/hls/masranga.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV
 http://103.136.200.246:8082/Ntv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg" group-title="Bangla", Channel9
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/channel9.jpg" group-title="Bangla", Channel9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/dbcnews.png" group-title="Bangla", DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
@@ -104,15 +105,15 @@ http://103.55.144.46/hls/sonyten2.m3u8
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rU424bI.png" group-title="Sports", Sony Ten 3
 http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Sports", Sky Sports Cricket
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/skycric.jpg" group-title="Sports", Sky Sports Cricket
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
 http://103.55.144.46/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Sports", Ten Sports
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/tensports.jpg" group-title="Sports", Ten Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Sports", Ten Sports
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/tensports.jpg" group-title="Sports", Ten Sports
 http://103.55.144.46/hls/ten.m3u8
 
 
