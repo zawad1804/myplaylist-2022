@@ -54,20 +54,26 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 #Sports
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/willow.jpg" group-title="Sports", Willow HD
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/willow.jpg" group-title="Sports", Willow HD
+http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.159.4.38:9191/CH2-SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Ebox]
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
 https://arnob.tk/MB/TsportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Accessnet]
+http://stream.accessnetbd.com/hls/sky12.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [Accessnet]
 http://stream.accessnetbd.com/hls/sky3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://103.159.4.38:9191/CH3-SP3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD [Accessnet]
+http://stream.accessnetbd.com/hls/sky7.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1
 http://111.22.33.14/hls/stream2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
@@ -82,7 +88,9 @@ http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 http://103.55.144.46/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Six HD
+#EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
+http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
 http://103.136.200.246:8082/SonySix/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
 http://tv2.ebox.live:8080/live/sonysix.m3u8
@@ -94,13 +102,11 @@ http://103.55.144.46/hls/sonyten2.m3u8
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rU424bI.png" group-title="Sports", Sony Ten 3
 http://103.55.144.46/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Sports", Willow HD
-http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", Sky Sports Cricket
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Sports", PTV Sports
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Sports", PTV Sports
+#EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
 http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", Ten Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
