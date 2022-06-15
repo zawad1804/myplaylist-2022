@@ -6,7 +6,7 @@
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
-#EXTINF:-1 tvg-logo="http://tv.sarkernet.com/img/btv.png" group-title="Bangla", BTV
+#EXTINF:-1 tvg-logo="https://imgur.com/qRfBDFb.png" group-title="Bangla", BTV HD
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Nexus TV
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
@@ -33,13 +33,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 http://103.136.200.246:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/maasranga.png" group-title="Bangla", Maasranga HD
 http://103.55.144.46/hls/masranga.m3u8
-#EXTINF:-1 tvg-logo="http://tv.sarkernet.com/img/independent.png" group-title="Bangla", Independent TV
+#EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/independent.png" group-title="Bangla", Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV
 http://103.136.200.246:8082/Ntv/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.sarkernet.com/img/channel9.png" group-title="Bangla", Channel9
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg" group-title="Bangla", Channel9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://tv.sarkernet.com/img/dbcnews.png" group-title="Bangla", DBC News
+#EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/dbcnews.png" group-title="Bangla", DBC News
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/04FVgLd.png" group-title="Bangla", Ekushe ETV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -56,7 +56,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #Sports
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/willow.jpg" group-title="Sports", Willow HD
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
-#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/willow.jpg" group-title="Sports", Willow HD
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/willow.jpg" group-title="Sports", Willow HD [DDN]
 http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.159.4.38:9191/CH2-SP2/tracks-v1a1/mono.m3u8
@@ -68,6 +68,8 @@ https://arnob.tk/MB/TsportsHD.m3u8
 http://stream.accessnetbd.com/hls/sky12.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [Accessnet]
 http://stream.accessnetbd.com/hls/sky3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [DDN]
+http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://103.159.4.38:9191/CH3-SP3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
