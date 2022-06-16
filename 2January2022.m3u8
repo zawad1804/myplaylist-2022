@@ -107,6 +107,8 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/skycric.jpg" group-title="Sports", Sky Sports Cricket
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/skycric.jpg" group-title="Sports", Sky Sports Cricket [DDN]
+http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
