@@ -55,6 +55,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 #Sports
+#EXTINF:-1 tvg-logo="" group-title="Sports", BD VS WI
+https://vkvsd37.mycdn.me/hls/2564206365369.m3u8/sig/Z3ubCGtKc0k/expires/1655463563134/srcIp/45.84.123.93/clientType/13/srcAg/CHROME_ANDROID/mid/4354260675513/video.m3u8?p
+#EXTINF:-1 tvg-logo="" group-title="Sports", BD VS WI
+https://edge.playdj.tv/hls/video%2B9399479e-c9fb-42e6-bf1c-f276665d4a7e/1_0/index.m3u8?origin=origin-lon-02
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/willow.jpg" group-title="Sports", Willow HD
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/willow.jpg" group-title="Sports", Willow HD [DDN]
