@@ -302,7 +302,7 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+ [JioTV]
 http://ranapk-june2.in1.bitmana.io/autoq.php?c=MTV_HD_Plus&q=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
-http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/46.m3u8
+http://tv.ebox.live:8081/thunderbd/46/chunks.m3u8?nimblesessionid=&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIyIDk6MDA6MzggQU0maGFzaF92YWx1ZT1lWDg0UXlZR3ZMd2l5WlJiODUydDVBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD [JioTV]
