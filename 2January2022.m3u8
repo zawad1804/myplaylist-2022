@@ -4,18 +4,17 @@
 
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/channel24.png" group-title="Bangla", Channel 24
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qRfBDFb.png" group-title="Bangla", BTV HD
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Nexus TV
-#EXTVLCOPT:http-referrer=http://www.jagobd.com
 http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Nfb72lm.png" group-title="Bangla", Deepto HD
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/somoytv.jpg" group-title="Bangla", Somoy TV
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/atnnews.png" group-title="Bangla", ATN News
@@ -303,7 +302,7 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+ [JioTV]
 http://ranapk-june2.in1.bitmana.io/autoq.php?c=MTV_HD_Plus&q=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
-http://103.136.200.246:8082/Mtv/index.m3u8
+http://tvserver3.roarzone.info:25461/live/tvapppublic/roarzone/46.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD [JioTV]
@@ -330,4 +329,5 @@ http://103.159.4.38:9191/CH31-IN-HIN3/tracks-v1a1/mono.m3u8
 http://103.159.4.38:9191/CH32-IN-HIN4/tracks-v1a1/mono.m3u8
 https://arnob.tk/MB/SonySD.m3u8
 ##http://103.136.200.246:8082/Zee-Hd/index.m3u8##
+http://103.136.200.246:8082/Mtv/index.m3u8
 ##http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8##
