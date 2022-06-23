@@ -90,8 +90,8 @@ http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
-http://103.55.144.46/hls/select2.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
@@ -169,11 +169,11 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
 http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Zee_Cinema&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=Zee_Cinema&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=And_Pictures_HD&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=And_Pictures_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
@@ -181,11 +181,11 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Sony_HD&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=Sony_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 https://arnob.tk/MB/SonySabHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Sony_SAB_HD&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=Sony_SAB_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
@@ -193,9 +193,9 @@ http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Sony_Max_HD&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=Sony_Max_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Sony_Max_SD&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=Sony_Max_SD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
@@ -224,23 +224,19 @@ http://103.136.200.246:8082/Colors-Cineplex/index.m3u8
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XzHW70x.png"  group-title="Hindi", Zee TV HD [Zee5]
-http://ranapkz5.1.mywebsites.link/z5ranapk.php?c=0-9-zeetvhd
-#EXTINF:-1 tvg-logo="https://imgur.com/XzHW70x.png"  group-title="Hindi", Zee TV HD [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Zee_TV_HD&q=&e=.m3u8
+ #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Zee HD
+http://iptvind.in1.bitmana.io/autoq.php?c=Zee_TV_HD&q=600&e=.m3u8
 
 
 
 #English
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", &flix HD
-http://103.136.200.246:8082/And-Flix/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
 http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Sony_Pix_HD&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=Sony_Pix_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
 http://103.136.200.246:8082/SonyPix/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD
@@ -304,17 +300,17 @@ http://103.136.200.246:8082/Zoom/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Zoom&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=Zoom&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+ [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=MTV_HD_Plus&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=MTV_HD_Plus&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
 http://103.136.200.246:8082/Mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=MTV_Beats_HD&q=&e=.m3u8
+http://iptvind.in1.bitmana.io/autoq.php?c=MTV_Beats_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
