@@ -324,6 +324,27 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 http://ranapk-june3.in1.bitmana.io/livezx.php?c=Music_India&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7.php?id=48151
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Sweden/vh1.png" group-title="Hindi", VH1 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7.php?id=44341
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com.png" group-title="Hindi", STAR BHARAT FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7.php?id=51233
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com.png"group-title="Hindi", STAR GOLD SEL FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7.php?id=51235
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com.png"group-title="Hindi", STAR JALSHA FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/star7.php?id=51236
+
+
+
+
+
+
 
 ##http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8##
 http://103.159.4.38:9191/CH26-INBD5/tracks-v1a1/mono.m3u8 Zee Bangla Cinema
