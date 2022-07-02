@@ -25,7 +25,7 @@ http://103.136.200.246:8089/Atn-News/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla", Channel I
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/jamunatv.jpg" group-title="Bangla", Jamuna TV
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/jamunatv.jpg" group-title="Bangla", Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangla", News24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
@@ -63,21 +63,21 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 http://103.136.200.246:8089/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
 https://arnob.tk/MB/TsportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Accessnet]
-http://stream.accessnetbd.com/hls/sky12.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [Accessnet]
-http://stream.accessnetbd.com/hls/sky3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [AMRBD}
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://nayeemparvez-hp.zapto.org:80/tv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EMexxTB.png" group-title="Sports", Super Cricket
+http://ranapk.myftp.org:1932/tvapp/sonysix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [AMRBD]
 http://103.136.200.246:8089/Gazi-Tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
+http://nayeemparvez-amr.hopto.org:8089/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [DDN]
 http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://103.159.4.38:9191/CH3-SP3/tracks-v1a1/mono.m3u8
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD [Accessnet]
-http://stream.accessnetbd.com/hls/sky7.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://111.22.33.14/hls/stream2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
 http://103.55.144.46/hls/starsports2.m3u8
@@ -94,7 +94,7 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
 http://103.55.144.46/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
-http://103.136.200.246:8082/SonySix/index.m3u8
+http://103.136.200.246:8089/SonySix/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WZbjRM3.png" group-title="Sports", Sony Ten 1 HD
@@ -168,7 +168,7 @@ http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD [Int]
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema [JioTV]
-http://iptvind.in1.bitmana.io/autoq.php?c=Zee_Cinema&q=600&e=.m3u8
+http://ranapk-june3.in1.bitmana.io/livezx.php?c=Zee_Cinema&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD [Zee5]
@@ -221,18 +221,18 @@ http://103.136.200.246:8089/Colors-Cineplex/index.m3u8
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Zee HD
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", HD
 http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-zeetvhd
-#EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Zee HD
-http://ranapk-june3.in1.bitmana.io/livezx.php?c=Zee_TV_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", HD
+http://103.136.200.246:8089/Zee-Hd/index.m3u8
 
 
 
 #English
 
-#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", &flix HD
+#EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", &flixHD
 http://ranapk.cf/Z5RanaPk.php?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="English", &prive HD
+#EXTINF:-1 tvg-logo="https://imgur.com/CEz1WRj.png" group-title="English", &priveHD
 http://103.179.246.243:8000/play/a01d
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
@@ -327,7 +327,7 @@ http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7.php?id=48151
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Sweden/vh1.png" group-title="Hindi", VH1 HD
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Sweden/vh1.png" group-title="Music", VH1 HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7.php?id=44341
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com.png" group-title="Hindi", STAR BHARAT FHD
@@ -363,6 +363,7 @@ http://103.60.172.106:8080/NagorikTV/tracks-v1a1/mono.m3u8
 http://103.159.4.38:9191/CH31-IN-HIN3/tracks-v1a1/mono.m3u8
 http://103.159.4.38:9191/CH32-IN-HIN4/tracks-v1a1/mono.m3u8
 https://arnob.tk/MB/SonySD.m3u8
+http://stream.accessnetbd.com/hls/sky3.m3u8
 ##http://103.136.200.246:8089/Zee-Hd/index.m3u8##
 http://103.136.200.246:8089/Mtv/index.m3u8
 http://103.159.4.38:9191/CH23-INBD2/tracks-v1a1/mono.m3u8 Zee Bangla
