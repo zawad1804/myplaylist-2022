@@ -58,7 +58,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #Sports
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Ebox]
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+http://ranapk.myftp.org:1932/tvapp/nk-tsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [AMRBD]
 http://103.136.200.246:8089/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
