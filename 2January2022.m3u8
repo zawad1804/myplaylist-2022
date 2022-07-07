@@ -182,12 +182,14 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://103.136.200.246:8089/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD [Star7]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=51165
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 https://arnob.tk/MB/SonySabHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 http://103.136.200.246:8089/Sony_Sab/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD [Star7]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=48152
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
@@ -196,6 +198,7 @@ http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD [Star7]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=48151
 #EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max [JioTV]
 http://ranapk-june3.in1.bitmana.io/autooz.php?c=Sony_Max_SD&q=800&e=.m3u8
@@ -239,16 +242,19 @@ http://103.179.246.243:8000/play/a01d
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=47858
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
 http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
 http://103.136.200.246:8089/SonyPix/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=48142
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD
 http://103.55.144.46/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=47861
 #EXTINF:-1 tvg-logo="https://imgur.com/mML3WAl.png" group-title="English", Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
@@ -275,6 +281,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic HD
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/0gW4AST.png" group-title="Documentary", National Geographic
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=51268
 #EXTINF:-1 tvg-logo="https://imgur.com/bmi7YKP.png" group-title="Documentary", Discovery HD
 http://103.55.144.46/hls/discovery.m3u8
@@ -291,14 +298,17 @@ http://103.136.200.246:8089/Duronto_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
 http://103.179.246.243:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=48164
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Super Hungama
 http://103.179.246.243:8000/play/a05p
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
 http://103.179.246.243:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=49004
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=13756
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Sony Yay
 http://103.55.144.46/hls/dis-kid.m3u8
