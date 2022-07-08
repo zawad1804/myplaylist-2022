@@ -184,10 +184,6 @@ http://103.136.200.246:8089/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=51165
-#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
-https://arnob.tk/MB/SonySabHD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
-http://103.136.200.246:8089/Sony_Sab/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=48152
@@ -321,11 +317,11 @@ http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Music", Gaan Bangla
 http://103.136.200.246:8089/GaanBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
-http://103.136.200.246:8089/Zoom/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom [JioTV]
-http://ranapk-june3.in1.bitmana.io/autooz.php?c=Zoom&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.55.144.46/hls/zoom.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/2e436102-90dc-45ab-ad2b-825cefe46fcd/0.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
+http://103.136.200.246:8089/Zoom/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+ [JioTV]
