@@ -331,7 +331,7 @@ http://103.136.200.246:8089/Mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD [JioTV]
-http://ranapk-june3.in1.bitmana.io/autooz.php?c=MTV_Beats_HD&q=800&e=.m3u8
+https://tvstream.fun/jtv/imax.php?c=MTV_Beats_HD&q=800.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
