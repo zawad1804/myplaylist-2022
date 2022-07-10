@@ -58,16 +58,16 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #Sports
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Ebox]
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
-https://arnob.tk/MB/TsportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", BD vs WI
-https://networkbest.ru.com/cdn/premium31/chunks.m3u8?%7CReferer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://cricket-localiptv.ml/BANvsWI_BDIX.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://ranapk.myftp.org:1932/tvapp/nk-tsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://nayeemparvez-hp.zapto.org:80/tv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EMexxTB.png" group-title="Sports", Super Cricket
 http://ranapk.myftp.org:1932/tvapp/sonysix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [AMRBD]
