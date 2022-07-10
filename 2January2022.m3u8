@@ -183,10 +183,10 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 http://103.136.200.246:8089/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=51165
+http://ranapk.cf/api/RED.php?id=51165
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=48152
+http://ranapk.cf/api/RED.php?id=48152
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
@@ -195,7 +195,7 @@ http://103.55.144.46/hls/sony-maxhd.m3u8
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=48151
+http://ranapk.cf/api/RED.php?id=48151
 #EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max [JioTV]
 http://ranapk-june3.in1.bitmana.io/autooz.php?c=Sony_Max_SD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
@@ -206,12 +206,15 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold Select HD
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold Select HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/RED.php?id=51235
 #EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png" group-title="Hindi", Star Gold2
 http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
 http://103.55.144.46/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
-http://103.159.4.38:9191/CH29-IN-HIN1/tracks-v1a1/mono.m3u8
+http://ranapk.cf/api/RED.php?id=51239
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
@@ -261,7 +264,8 @@ http://103.55.144.46/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgujZyS.png" group-title="English", AXN
 https://arnob.tk/MB/AXN.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/RED.php?id=29528
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
 http://190.171.101.36/HBO/index.m3u8
 
@@ -295,23 +299,20 @@ http://103.136.200.246:8089/Duronto_TV/index.m3u8
 http://103.179.246.243:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=48164
+http://ranapk.cf/api/RED.php?id=48164
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Super Hungama
 http://103.179.246.243:8000/play/a05p
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
 http://103.179.246.243:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=49004
-#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=13756
+http://ranapk.cf/api/RED.php?id=48157
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Sony Yay
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fIWdYho.png" group-title="Cartoon", Cartoon Network
 http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/542VNXV.png" group-title="Cartoon", Nick
-http://103.55.144.46/hls/nick.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/542VNXV.png" group-title="Cartoon", Nick HD+
+http://ranapk.cf/api/RED.php?id=51269
 
 #Music
 #EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Music", Gaan Bangla
