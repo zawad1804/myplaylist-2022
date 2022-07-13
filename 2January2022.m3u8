@@ -65,15 +65,15 @@ http://ranapk.myftp.org:1932/tvapp/nk-tsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://nayeemparvez-hp.zapto.org:80/tv.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+http://nayeemparvez-hp.zapto.org:80/tv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EMexxTB.png" group-title="Sports", Super Cricket [DDN]
+http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/EMexxTB.png" group-title="Sports", Super Cricket
 http://ranapk.myftp.org:1932/tvapp/sonysix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [AMRBD]
-http://nayeem-parvez.gq/rz.php?num=1&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
-http://nayeemparvez-amr.hopto.org:8089/Gazi-Tv/index.m3u8
+http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [DDN]
 http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
@@ -81,7 +81,7 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://111.22.33.14/hls/stream2.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
@@ -97,7 +97,7 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
 http://103.55.144.46/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
-http://103.136.200.246:8089/SonySix/index.m3u8
+http://103.55.144.46/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Ws3p8ld.png" group-title="Sports", Sony Six HD
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/WZbjRM3.png" group-title="Sports", Sony Ten 1 HD
@@ -126,17 +126,16 @@ http://103.55.144.46/hls/ptv.m3u8
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/tensports.jpg" group-title="Sports", Ten Sports
 http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1 tvg-logo="http://sldhnecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports", Sports18 1HD
-http://ranapk-june3.in1.bitmana.io/autooz.php?c=Sports18_1_HD&q=&e=.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/a/PV8sKRA.png" group-title="Sports", Super LaLiga [DDN]
+http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #Indian Bangla Channels
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
 http://103.55.144.46/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD [AMRBD]
 http://103.136.200.246:8089/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha
-https://arnob.tk/MB/StarJalshaHD.m3u8
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
 http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla
@@ -158,7 +157,7 @@ http://103.136.200.246:8089/Jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
 http://208.86.19.13:81/617.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
-http://103.55.144.46/hls/jalshamovies.m3u8
+http://103.55.144.46/hls/jalshamovies.m3u8?|Referer=http://103.55.144.46/
 
 # Hindi Channels
 
@@ -226,10 +225,8 @@ http://103.136.200.246:8089/Colors-Cineplex/index.m3u8
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", HD
-http://ranapkz5.1.mywebsites.link/z5ranapkx.php?c=0-9-zeetvhd
-#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", HD
-http://103.136.200.246:8089/Zee-Hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Zee TV HD
+http://103.55.144.46/hls/zeetv.m3u8
 
 
 
@@ -267,9 +264,6 @@ https://arnob.tk/MB/AXN.m3u8
 #EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/RED.php?id=29528
-#EXTINF: -1 tvg-id="001" tvg-logo="https://imgur.com/hY5S6K4.png" group-title="English", HBO
-http://190.171.101.36/HBO/index.m3u8
-
 
 
 
@@ -332,29 +326,15 @@ http://ranapk-june3.in1.bitmana.io/autooz.php?c=MTV_HD_Plus&q=800&e=.m3u8
 http://103.136.200.246:8089/Mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD [JioTV]
-https://tvstream.fun/jtv/imax.php?c=MTV_Beats_HD&q=800.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD [Star7]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/RED.m3u8?id=48169
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
 http://ranapk-june3.in1.bitmana.io/autooz.php?c=Music_India&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=48151
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Sweden/vh1.png" group-title="Music", VH1 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=44341
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com.png" group-title="Hindi", STAR BHARAT FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=51233
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com.png"group-title="Hindi", STAR GOLD SEL FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=51235
-#EXTINF:-1 tvg-logo="http://files.rednetcontent.com.png"group-title="Hindi", STAR JALSHA FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=51236
 
 
 
