@@ -5,11 +5,11 @@
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/channel24.png" group-title="Bangla", Channel 24
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV [AMRBD]
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=51029
 #EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV [ICC]
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV [Star7]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/RED.php?id=51029
 #EXTINF:-1 tvg-logo="https://imgur.com/qRfBDFb.png" group-title="Bangla", BTV HD
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Nexus TV
@@ -32,14 +32,14 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV BD
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Z1Cu8xi.png" group-title="Bangla", Nagorik Tv
-http://103.136.200.246:8089/Nagorik-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z1Cu8xi.png" group-title="Bangla", Nagorik Tv [ICC]
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/maasranga.png" group-title="Bangla", Maasranga HD
 http://103.55.144.46/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/independent.png" group-title="Bangla", Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV
-http://103.136.200.246:8089/Ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV [ICC]
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/channel9.jpg" group-title="Bangla", Channel9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/dbcnews.png" group-title="Bangla", DBC News
@@ -132,8 +132,6 @@ http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncas
 #Indian Bangla Channels
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
 http://103.55.144.46/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD [AMRBD]
-http://103.136.200.246:8089/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
@@ -145,15 +143,14 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
 http://103.55.144.46/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
-https://arnob.tk/MB/SonyAath.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema [Zee5]
-http://ranapk.cf/Z5RanaPk.php?c=0-9-zeebanglacinema
+http://ranapk.cf/ZxRn.php?c=0-9-zeebanglacinema
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
-http://103.136.200.246:8089/Jalshamovies/index.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.m3u8?id=51270
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
 http://208.86.19.13:81/617.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
@@ -164,17 +161,18 @@ http://103.55.144.46/hls/jalshamovies.m3u8?|Referer=http://103.55.144.46/
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD [Zee5]
-http://ranapk.cf/Z5RanaPk.php?c=0-9-zeecinemahd
+http://ranapk.cf/ZxRn.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD [Int]
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema [JioTV]
-http://ranapk-june3.in1.bitmana.io/autooz.php?c=Zee_Cinema&q=600&e=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/ZxRn.php?c=0-9-zeecinema
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD [Zee5]
-http://ranapk.cf/Z5RanaPk.php?c=0-9-tvpictureshd
+http://ranapk.cf/ZxRn.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
@@ -183,10 +181,10 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 http://103.136.200.246:8089/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=51165
+http://ranapk.cf/api/REDx.m3u8?id=51165
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48152
+http://ranapk.cf/api/REDx.m3u8?id=48152
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
@@ -196,8 +194,6 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/RED.php?id=48151
-#EXTINF:-1 tvg-logo="https://imgur.com/9056B1t.png" group-title="Hindi", Sony Max [JioTV]
-http://ranapk-june3.in1.bitmana.io/autooz.php?c=Sony_Max_SD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold HD
@@ -206,15 +202,16 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold Select HD
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="Hindi", Star Gold Select HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=51235
+http://ranapk.cf/api/REDx.m3u8?id=48108
 #EXTINF:-1 tvg-logo="https://imgur.com/G0fh0PU.png" group-title="Hindi", Star Gold2
 http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
 http://103.55.144.46/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD
-http://ranapk.cf/api/RED.php?id=51239
+#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png"  group-title="Hindi", Star Plus HD [Star7]
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.m3u8?id=51239
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Colors HD
@@ -227,32 +224,43 @@ http://103.55.144.46/hls/utvaction.m3u8
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Zee TV HD
 http://103.55.144.46/hls/zeetv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Zee TV HD [Zee5]
+http://ranapk.cf/ZxRn.php?c=0-9-zeetvhd
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Star Bharat HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.m3u8?id=48104
 
 
 
 #English
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8XJLEUa.png" group-title="English", &flix HD
-http://ranapk.cf/Z5RanaPk.php?c=0-9-channel_2105335046
+http://ranapk.cf/ZxRn.php?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-logo="https://imgur.com/CEz1WRj.png" group-title="English", &prive HD
 http://103.179.246.243:8000/play/a01d
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 http://103.55.144.46/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=47858
+http://ranapk.cf/api/REDx.m3u8?id=47858
+#EXTINF:-1 tvg-logo="https://imgur.com/XsHKNAJ.png" group-title="English", Star World Asia
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.m3u8?id=51266
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
 http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
 http://103.136.200.246:8089/SonyPix/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD
+#EXTINF:-1 tvg-logo="https://imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/star7zx.php?id=48142
 #EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD
 http://103.55.144.46/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD
+#EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/star7zx.php?id=47861
+http://ranapk.cf/api/REDx.m3u8?id=51271
+#EXTINF:-1 tvg-logo="https://imgur.com/iCOQK4B.png" group-title="English", Star Movies Select HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.m3u8?id=47861
 #EXTINF:-1 tvg-logo="https://imgur.com/mML3WAl.png" group-title="English", Movies Now HD
 http://103.55.144.46/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iA4v1yN.png" group-title="English", MN+ HD
@@ -288,26 +296,26 @@ http://103.55.144.46/hls/bbcearth.m3u8
 http://103.55.144.46/hls/animalplanent.m3u8
 
 #Cartoon
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/Duronto%20Tv1656562041.png" group-title="Cartoon", Duronto TV
-http://103.136.200.246:8089/Duronto_TV/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
 http://103.179.246.243:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48164
+http://ranapk.cf/api/REDx.m3u8?id=48164
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Super Hungama
 http://103.179.246.243:8000/play/a05p
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
 http://103.179.246.243:8000/play/a01y
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Disney
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.php?id=48157
+http://ranapk.cf/api/REDx.m3u8?id=48157
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Sony Yay
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fIWdYho.png" group-title="Cartoon", Cartoon Network
 http://103.55.144.46/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/542VNXV.png" group-title="Cartoon", Nick HD+
-http://ranapk.cf/api/RED.php?id=51269
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.m3u8?id=51269
 
 #Music
 #EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Music", Gaan Bangla
@@ -321,14 +329,14 @@ http://nayeem-parvez.gq/rz.php?num=60&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music", MTV HD+ [JioTV]
-http://ranapk-june3.in1.bitmana.io/autooz.php?c=MTV_HD_Plus&q=800&e=.m3u8
+https://nayeem.chadasaniya.ml//jiox.php?id=1145&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
 http://103.136.200.246:8089/Mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/RED.m3u8?id=48169
+http://ranapk.cf/api/REDx.m3u8?id=48169
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
