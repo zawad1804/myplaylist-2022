@@ -345,7 +345,8 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 https://ranapkxtar.vercel.app/api/livezx.php?c=Music_India&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
 http://103.136.200.246:8089/Mtv/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
+http://telegram-ranapk73.eu5.org/play.m3u8?id=2
 
 
 
