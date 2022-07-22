@@ -60,12 +60,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://stream.serverbd247.com/hls/serverbd247.com-tsportshd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
+https://arnob.tk/MB/TsportsHD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [ICC]
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://103.55.144.46/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://nayeemparvez-hp.zapto.org:80/tv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EMexxTB.png" group-title="Sports", Super Cricket [DDN]
 http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/EMexxTB.png" group-title="Sports", Super Cricket
@@ -127,37 +127,11 @@ http://103.55.144.46/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a/PV8sKRA.png" group-title="Sports", Super LaLiga [DDN]
 http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
-#Indian Bangla Channels
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
-http://103.55.144.46/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
-http://103.55.144.46/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla
-http://103.109.56.116/live/skyfeed1004/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
-http://103.55.144.46/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema
-http://103.55.144.46/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema [Zee5]
-http://ranapk.cf/ZxRn.php?c=0-9-zeebanglacinema
-#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.m3u8?id=51270
-#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
-http://208.86.19.13:81/617.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
-http://103.55.144.46/hls/jalshamovies.m3u8
 
 # Hindi Channels
 
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+https://arnob.tk/MB/ZeeCinemaHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD [Zee5]
 http://ranapk.cf/ZxRn.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
@@ -168,9 +142,11 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/ZxRn.php?c=0-9-zeecinema
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
-http://103.55.144.46/hls/andpictures.m3u8
+https://arnob.tk/MB/AndPicturesHD.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD [Zee5]
 http://ranapk.cf/ZxRn.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
+http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
@@ -180,13 +156,13 @@ https://ranapkxtar.vercel.app/api/livezx.php?c=Sony_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/REDx.m3u8?id=51165
+#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
+https://arnob.tk/MB/SonySabHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/REDx.m3u8?id=48152
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD [Jio]
 https://ranapkxtar.vercel.app/api/livezx.php?c=Sony_SAB_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
@@ -225,6 +201,8 @@ http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nDLjaDL.png"  group-title="Hindi", Utv Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Zee TV HD
+https://arnob.tk/MB/ZeeTVHD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Zee TV HD
 http://103.55.144.46/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="Hindi", Zee TV HD [Zee5]
 http://ranapk.cf/ZxRn.php?c=0-9-zeetvhd
@@ -232,7 +210,32 @@ http://ranapk.cf/ZxRn.php?c=0-9-zeetvhd
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/REDx.m3u8?id=48104
 
-
+#Indian Bangla Channels
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
+http://103.55.144.46/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
+http://103.55.144.46/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D5KeTEv.png" group-title="Indian Bangla", Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema
+http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema [Zee5]
+http://ranapk.cf/ZxRn.php?c=0-9-zeebanglacinema
+#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.m3u8?id=51270
+#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
+http://208.86.19.13:81/617.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
+http://103.55.144.46/hls/jalshamovies.m3u8
 
 #English
 
