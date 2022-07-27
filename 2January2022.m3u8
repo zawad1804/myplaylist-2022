@@ -149,10 +149,8 @@ http://ranapk.cf/ZxRn.php?c=0-9-tvpictureshd
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
 http://103.55.144.46/hls/sonyen.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD [Jio]
-https://ranapkxtar.vercel.app/api/livezx.php?c=Sony_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony SD
+https://arnob.tk/MB/SonySD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony HD [Star7]
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/REDx.m3u8?id=51165
@@ -230,10 +228,10 @@ http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sUburk9.png" group-title="Indian Bangla", Zee Bangla Cinema [Zee5]
 http://ranapk.cf/ZxRn.php?c=0-9-zeebanglacinema
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
+https://arnob.tk/MB/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://ranapk.cf/api/REDx.m3u8?id=51270
-#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
-http://208.86.19.13:81/617.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
 http://103.55.144.46/hls/jalshamovies.m3u8
 
@@ -377,6 +375,7 @@ http://stream.accessnetbd.com/hls/sky3.m3u8
 http://103.136.200.246:8089/Mtv/index.m3u8
 http://103.159.4.38:9191/CH23-INBD2/tracks-v1a1/mono.m3u8 Zee Bangla
 http://103.159.4.38:9191/CH25-INBD4/tracks-v1a1/mono.m3u8 Colors Bangla
+https://arnob.tk/MB/JalshaMoviesHD.m3u8 Jalsha Movies HD
 ##http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8##
 
 
