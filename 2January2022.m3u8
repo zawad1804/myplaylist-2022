@@ -74,9 +74,9 @@ http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8?|Referer=http://dds.oncas
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://103.151.43.102:8000/play/a007/index.m3u8
+http://30.30.30.30/live/skyfeed1011/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://103.55.144.46/hls/stersports1hd.m3u8
+http://103.151.43.102:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
