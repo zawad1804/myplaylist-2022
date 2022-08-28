@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://botallen.live/epg.xml.gz"
+#EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/channel24.png" group-title="Bangla", Channel 24
@@ -127,21 +128,21 @@ http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncas
 
 # Hindi Channels
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi" channel-id="snehjio165", Zee Cinema HD
 https://arnob.tk/MB/ZeeCinemaHD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD [Jio]
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi" channel-id="snehjio165", Zee Cinema HD [Jio]
 http://tv.googledrivelinks.com:8088/live.php?c=Zee_Cinema_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD [Int]
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi" channel-id="snehjio165", Zee Cinema HD [Int]
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi" channel-id="snehjio165", Zee Cinema HD
 http://103.55.144.46/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Zee_Cinema
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
 https://arnob.tk/MB/AndPicturesHD.m3u8
-#EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD [Jio]
+#EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi" channel id="snehjio185", &Pictures HD [Jio]
 http://tv.googledrivelinks.com:8088/live.php?c=And_Pictures_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi", &Pictures HD
+#EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi" channel id="snehjio185", &Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi", Sony SD
 https://arnob.tk/MB/SonySD.m3u8
@@ -149,7 +150,7 @@ https://arnob.tk/MB/SonySD.m3u8
 http://tv.googledrivelinks.com:8088/live.php?c=Sony_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD
 https://arnob.tk/MB/SonySabHD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi", Sony Sab HD [Jio]
+#EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi" channel id="snehjio471", Sony Sab HD [Jio]
 http://tv.googledrivelinks.com:8088/live.php?c=Sony_SAB_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Hindi", Sony Max HD
 http://tv.googledrivelinks.com:8088/live.php?c=Sony_Max_HD&q=800&e=.m3u8
