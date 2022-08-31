@@ -56,38 +56,32 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #Sports
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", BD vs AFG
+#EXTINF:-1 tvg-logo="http://dangguli.live/img/channels/asiacup2022.png" group-title="Sports", Asia Cup
 https://nayeem-stream.chadasaniya.cf/Telegram-AllLiveSportsLinks/Gazi-TV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
+https://arnob.tk/MB/SSPHD1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
+http://30.30.30.30/live/skyfeed1011/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
 https://arnob.tk/TSPHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
 https://arnob.tk/MB/TsportsHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [ICC]
-http://10.16.100.207:8088/sports/t$sports_loacal@.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
-http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [DDN]
 http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/EMexxTB.png" group-title="Sports", Super Cricket [DDN]
 http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://111.22.33.14/hls/star1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://30.30.30.30/live/skyfeed1011/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports", Star Sports 2 HD
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
-http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
-http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pFgUCZF.png" group-title="Sports", Star Sports Select 2 HD
