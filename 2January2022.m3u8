@@ -280,11 +280,14 @@ http://fm-movie.site/live.php?c=MTV_Beats_HD&q=800&e=.m3u8
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
 http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Music_India
-#EXTINF:-1 tvg-logo="#.png" group-title="Music", Shark Tank
-https://ramyeon.indexbdh.workers.dev/6:/Shark.Tank.S13.720p.HULU.WEBRip.AAC2.0.x264-NTb[rartv]/Shark.Tank.S13E01.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv
-#EXTINF:-1 tvg-logo="#.png" group-title="Music", Shark Tank2
-https://arnob.tk/s13e02
 
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IYmSrQQ.png" group-title="Shark Tank 13", Episode 01
+https://ramyeon.indexbdh.workers.dev/6:/Shark.Tank.S13.720p.HULU.WEBRip.AAC2.0.x264-NTb[rartv]/Shark.Tank.S13E01.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv
+#EXTINF:-1 tvg-logo="https://imgur.com/IYmSrQQ.png" group-title="Shark Tank 13", Episode 02
+https://kachagolla-please-dont-abuse-bdh-and.dont-share-links.workers.dev/6:/Shark.Tank.S13.720p.HULU.WEBRip.AAC2.0.x264-NTb[rartv]/Shark.Tank.S13E02.Songlorious.MuteMe.Proper.Good.Long.Wharf.Supply.Co.720p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv
+#EXTINF:-1 tvg-logo="https://imgur.com/IYmSrQQ.png" group-title="Shark Tank 13", Episode 03
+https://chom-chom-please-dont-abuse-bdh.dont-share-links-in-public.workers.dev/6:/Shark.Tank.S13.720p.HULU.WEBRip.AAC2.0.x264-NTb[rartv]/Shark.Tank.S13E03.720p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv
 
 
 
