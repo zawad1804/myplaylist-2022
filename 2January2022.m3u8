@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/channel24.png" group-title="Bangla", Channel 24
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV
-http://10.16.100.207:8088/sports/71ekattoortv.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV [amrbd]
+	http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qRfBDFb.png" group-title="Bangla", BTV HD
 http://streams.sarkernet.com/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Nexus TV
@@ -28,14 +28,14 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",RTV BD
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Z1Cu8xi.png" group-title="Bangla", Nagorik Tv [ICC]
-http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Z1Cu8xi.png" group-title="Bangla", Nagorik Tv [amrbd]
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/maasranga.png" group-title="Bangla", Maasranga HD
 http://103.55.144.46/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/independent.png" group-title="Bangla", Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV [ICC]
-http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV [amrbd]
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/channel9.jpg" group-title="Bangla", Channel9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/dbcnews.png" group-title="Bangla", DBC News
@@ -57,13 +57,15 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://172.16.50.2:8082/T-Sports/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
-http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/tensports.jpg" group-title="Sports", BD VS PAK
+http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", BD VS PAK
 https://sports-corner.ml/TRI-SERIES/LIVE2.m3u8
 #EXTINF:-1 tvg-logo="#.png" group-title="Sports", BD VS PAK
 http://vdn.jgo.tv:1932/c5V9ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD
-http://172.16.50.20:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
@@ -111,8 +113,6 @@ http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
 http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/tensports.jpg" group-title="Sports", Ten Sports
-http://172.16.50.20:8082/Ten-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/tensports.jpg" group-title="Sports", Ten Sports
 http://103.55.144.46/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a/PV8sKRA.png" group-title="Sports", Super LaLiga [DDN]
 http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
@@ -134,7 +134,7 @@ https://arnob.tk/MB/AndPicturesHD.m3u8
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" tvg-id="1396", Sony SD
 https://arnob.tk/MB/SonySD.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" tvg-id="291", Sony HD
+#EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" tvg-id="291", Sony HD [AMRBD]
 http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi" tvg-id="471", Sony Sab HD
 https://arnob.tk/MB/SonySabHD.m3u8
@@ -255,14 +255,14 @@ http://103.55.144.46/hls/duranta.m3u8
 
 #Music
 #EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Music", Gaan Bangla
-http://103.55.144.46/hls/gb.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" tvg-id="592", Zoom
+http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" tvg-id="592", Zoom [AMRBD]
 http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" tvg-id="592", Zoom [Cloudfront]
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/2e436102-90dc-45ab-ad2b-825cefe46fcd/0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" tvg-id="592", Zoom
 http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV
+#EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV [AMRBD]
 http://stream.amrbd.com:8082/Mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music" tvg-id="1145", MTV HD+ [Jio]
 http://fm-movie.site/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
