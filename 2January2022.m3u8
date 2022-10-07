@@ -54,8 +54,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #Sports
 
-#EXTINF:-1 tvg-logo="http://dangguli.live/img/channels/asiacup2022.png" group-title="Sports", PTV Sports
-http://10.16.100.245/hindi/ptvSports_1ocal.m3u8
+#EXTINF:-1 tvg-logo="#.png" group-title="Sports", BD VS PAK
+https://vkvsd35.mycdn.me/hls/2953446951609.m3u8/sig/F9BLKoa7wYU/expires/1665157504499/srcIp/45.84.123.93/clientType/13/srcAg/CHROME_ANDROID/mid/4691458927545/video.m3u8?p
+#EXTINF:-1 tvg-logo="#.png" group-title="Sports", BD VS PAK
+https://sports-corner.ml/TRI-SERIES/LIVE2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD
 http://172.16.50.20:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD
