@@ -57,11 +57,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://111.22.33.14/hls/stream100.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://172.16.50.2:8082/T-Sports/tracks-v1/mono.m3u8
+http://172.16.128.2:8081/live/sky2001/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
-http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/tensports.jpg" group-title="Sports", T20 WorldCup
 http://172.16.50.2:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD
@@ -70,12 +70,8 @@ http://172.16.50.2:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [MB]
-https://arnob.tk/MB/TsportsHD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EMexxTB.png" group-title="Sports", Super Cricket [DDN]
-http://dds.oncast.me:1934/dlive/sp7.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports" tvg-id="160", Star Sports 2 HD
 http://172.16.50.20:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports" tvg-id="160", Star Sports 2 HD
@@ -106,16 +102,12 @@ http://tv2.ebox.live:8080/live/willow-cric.m3u8
 http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/skycric.jpg" group-title="Sports", Sky Sports Cricket
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/skycric.jpg" group-title="Sports", Sky Sports Cricket [DDN]
-http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="http://103.55.144.46/img/ptv.jpg" group-title="Sports", PTV Sports
 http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="http://tv2.ebox.live/img/logos/tensports.jpg" group-title="Sports", Ten Sports
 http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/PV8sKRA.png" group-title="Sports", Super LaLiga [DDN]
-http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 
 # Hindi Channels
