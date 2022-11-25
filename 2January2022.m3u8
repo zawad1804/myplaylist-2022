@@ -4,8 +4,8 @@
 #EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/channel24.png" group-title="Bangla", Channel 24
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV [amrbd]
-	http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ju1ouXo.png" group-title="Bangla", Ekattor TV [Ebox]
+http://10.90.90.106:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qRfBDFb.png" group-title="Bangla", BTV HD
 http://streams.sarkernet.com/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="Bangla", Nexus TV
@@ -30,12 +30,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Z1Cu8xi.png" group-title="Bangla", Nagorik Tv [amrbd]
 http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/maasranga.png" group-title="Bangla", Maasranga HD
-http://103.55.144.46/hls/masranga.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.aliflailabd.com/tv/images/maasranga.png" group-title="Bangla", Maasranga HD [Ebox]
+http://10.90.90.106:8082/Maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/independent.png" group-title="Bangla", Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV [amrbd]
-http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0VAcEGl.png" group-title="Bangla", NTV [Ebox]
+http://10.90.90.106:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/channel9.jpg" group-title="Bangla", Channel9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tv.nagordola.xyz/img/dbcnews.png" group-title="Bangla", DBC News
@@ -58,8 +58,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 http://10.90.90.106:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [MB]
 http://111.22.33.14/hls/stream100.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD [Flix]
-http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sports18_official_logo.png/200px-Sports18_official_logo.png" group-title="Sports" tvg-id="159", Sports18 HD [Ebox]
+http://10.90.90.106:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [Ebox]
 http://10.90.90.106:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD [Ebox]
@@ -224,12 +224,10 @@ http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Animal_Planet_HD
 http://103.179.246.243:8000/play/a01x
 #EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Hungama
 http://103.162.136.235:4500/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nYtp28i.png" group-title="Cartoon", Super Hungama
-http://103.179.246.243:8000/play/a05p
-#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon" tvg-id="114", Disney [Nayeem]
-http://alllivesportslinks-stream.chadasaniya.cf:8080/nayeem69/Disney-IN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon" tvg-id="114", Disney
-http://103.179.246.243:8000/play/a01y
+#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Nick [Ebox]
+http://10.90.90.106:8082/nike/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon" tvg-id="114", Disney [EFN]
+http://tv2.efiberbd.net:8080/live/efn/web/13.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bsz3ETe.png" group-title="Cartoon", Sony Yay
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fIWdYho.png" group-title="Cartoon", Cartoon Network
@@ -238,29 +236,24 @@ http://103.55.144.46/hls/cn.m3u8
 http://103.55.144.46/hls/duranta.m3u8
 
 #Music
-#EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Music", Gaan Bangla
-http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" tvg-id="592", Zoom [AMRBD]
-http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://gaanbangla.tv/img/gb_big.png" group-title="Music", Gaan Bangla [Ebox]
+http://10.90.90.106:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" tvg-id="592", Zoom [Ebox]
+http://10.90.90.106:8082/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" tvg-id="592", Zoom [Cloudfront]
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/2e436102-90dc-45ab-ad2b-825cefe46fcd/0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music" tvg-id="592", Zoom
 http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music", MTV [AMRBD]
-http://stream.amrbd.com:8082/Mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music" tvg-id="248", MTV [Eboc]
+http://10.90.90.106:8082/Mtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music" tvg-id="1145", MTV HD+ [Jio]
 http://fm-movie.site/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/megTXdY.png" group-title="Music" tvg-id="1145", MTV HD+ [EBOX]
-http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music", MTV Beats SD
 http://103.151.43.102:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Fsa4Sx.png" group-title="Music" tvg-id="753", MTV Beats HD
 http://fm-movie.site/live.php?c=MTV_Beats_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="#.png" group-title="Music", Music India
-http://a976-20-244-19-244.in.ngrok.io/JioxRanaPk/autoq.php?c=Music_India
-
+http://10.90.90.106:8082/9XM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IYmSrQQ.png" group-title="Shark Tank 1", Episode 04
 https://kalojam-please-dont-abuse-bdh.dont-share-bdh-links-publicly.workers.dev/6:/Shark%20Tank%20US%20(2009)/Season%2001/Shark.Tank.S01.480p.HULU.WEB-DL.AAC2.0.H.264-SPECT3R/Shark.Tank.S01E04.Week.4.480p.HULU.WEB-DL.AAC2.0.H.264-SPECT3R.mkv
