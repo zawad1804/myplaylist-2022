@@ -116,7 +116,7 @@ http://172.16.50.3:8082/And-Pictures/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.bdixsports.com/uploads/tv_image/and-pictures-hd-live.jpg" group-title="Hindi" tvg-id="185", &Pictures HD [Flix]
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" tvg-id="291", Sony HD [Ebox]
-htthttp://10.90.90.106:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+http://10.90.90.106:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="Hindi" tvg-id="291", Sony HD [Flix]
 http://live.flixhub.net/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CJc3ZU3.png" group-title="Hindi" tvg-id="471", Sony Sab HD [Ebox]
