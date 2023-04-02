@@ -53,20 +53,18 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 
 
 #Sports
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD [unix]
 http://30.30.30.30:8080/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD [Unix]
+http://30.30.30.30/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports" tvg-id="160", Star Sports 2 HD [Unix]
+http://30.30.30.30/live/skyfeed1008/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD
 http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="Sports", GTV HD [unix]
 http://30.30.30.30:8080/live/skyfeed1006/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports" tvg-id="159", Star Sports 1 HD [Ebox]
-http://10.90.90.106:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports", Star Sports Select 1 HD
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports" tvg-id="160", Star Sports 2 HD
-http://172.16.50.20:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MD0cEBL.png" group-title="Sports" tvg-id="160", Star Sports 2 HD
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZTxVYed.png" group-title="Sports" tvg-id="460", Star Sports Select 1 HD
